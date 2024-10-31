@@ -25,7 +25,7 @@ def push(object_kind, project_id, project_name, project_url, message, create_tim
                             },
                             {
                                 "tag": "text",
-                                "text": f"Commit message: {message} Commit time: {create_time}\nProject URL: "
+                                "text": f"Commit message: {message}Commit time: {create_time}\nProject URL: "
                             },
                             {
                                 "tag": "a",
