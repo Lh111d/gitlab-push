@@ -1,0 +1,64 @@
+2024-10-31 14:18:06,168 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6200
+ * Running on http://198.18.0.1:6200
+2024-10-31 14:18:06,168 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-10-31 14:18:06,173 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-10-31 14:18:06,500 - werkzeug - WARNING -  * Debugger is active!
+2024-10-31 14:18:06,501 - werkzeug - INFO -  * Debugger PIN: 942-156-151
+2024-10-31 14:22:07,720 - werkzeug - INFO -  * Detected change in 'D:\\Conda\\Lib\\site-packages\\flask\\app.py', reloading
+2024-10-31 14:22:07,727 - werkzeug - INFO - 192.168.1.12 - - [31/Oct/2024 14:22:07] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2024-10-31 14:22:08,797 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-10-31 14:22:09,159 - werkzeug - WARNING -  * Debugger is active!
+2024-10-31 14:22:09,160 - werkzeug - INFO -  * Debugger PIN: 942-156-151
+2024-10-31 14:28:01,619 - werkzeug - INFO -  * Detected change in 'D:\\code\\push_commit\\main.py', reloading
+2024-10-31 14:28:01,619 - werkzeug - INFO -  * Detected change in 'D:\\code\\push_commit\\main.py', reloading
+2024-10-31 14:28:01,619 - werkzeug - INFO -  * Detected change in 'D:\\code\\push_commit\\main.py', reloading
+2024-10-31 14:28:02,987 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-10-31 14:28:03,338 - werkzeug - WARNING -  * Debugger is active!
+2024-10-31 14:28:03,339 - werkzeug - INFO -  * Debugger PIN: 942-156-151
+2024-10-31 14:28:40,081 - werkzeug - INFO -  * Detected change in 'D:\\code\\push_commit\\main.py', reloading
+2024-10-31 14:28:40,083 - werkzeug - INFO -  * Detected change in 'D:\\code\\push_commit\\main.py', reloading
+2024-10-31 14:28:41,175 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-10-31 14:28:41,515 - werkzeug - WARNING -  * Debugger is active!
+2024-10-31 14:28:41,517 - werkzeug - INFO -  * Debugger PIN: 942-156-151
+2024-10-31 14:32:20,153 - root - INFO - Latest commit f4c2b770e7c7e015ee408d44527a41a2e5045111
+2024-10-31 14:32:20,162 - werkzeug - INFO - 192.168.1.12 - - [31/Oct/2024 14:32:20] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+2024-10-31 14:34:41,895 - werkzeug - INFO -  * Detected change in 'D:\\code\\push_commit\\main.py', reloading
+2024-10-31 14:34:41,896 - werkzeug - INFO -  * Detected change in 'D:\\code\\push_commit\\main.py', reloading
+2024-10-31 14:34:41,896 - werkzeug - INFO -  * Detected change in 'D:\\code\\push_commit\\main.py', reloading
+2024-10-31 14:34:41,896 - werkzeug - INFO -  * Detected change in 'D:\\code\\push_commit\\main.py', reloading
+2024-10-31 14:34:42,954 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-10-31 14:34:43,323 - werkzeug - WARNING -  * Debugger is active!
+2024-10-31 14:34:43,324 - werkzeug - INFO -  * Debugger PIN: 942-156-151
+2024-10-31 14:35:10,648 - werkzeug - INFO -  * Detected change in 'D:\\code\\push_commit\\main.py', reloading
+2024-10-31 14:35:10,648 - werkzeug - INFO -  * Detected change in 'D:\\code\\push_commit\\main.py', reloading
+2024-10-31 14:35:10,649 - werkzeug - INFO -  * Detected change in 'D:\\code\\push_commit\\main.py', reloading
+2024-10-31 14:35:11,712 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-10-31 14:35:12,083 - werkzeug - WARNING -  * Debugger is active!
+2024-10-31 14:35:12,084 - werkzeug - INFO -  * Debugger PIN: 942-156-151
+2024-10-31 14:36:55,876 - root - INFO - Latest commit f4c2b770e7c7e015ee408d44527a41a2e5045111
+2024-10-31 14:36:55,876 - root - INFO - Latest Commit Message: fix: youtube tool
+
+2024-10-31 14:36:56,695 - root - INFO - Push Commit: fix: youtube tool
+
+2024-10-31 14:36:56,695 - werkzeug - INFO - 192.168.1.12 - - [31/Oct/2024 14:36:56] "POST /webhook HTTP/1.1" 200 -
+2024-10-31 14:37:38,749 - werkzeug - INFO -  * Detected change in 'D:\\code\\push_commit\\push_lark.py', reloading
+2024-10-31 14:37:38,750 - werkzeug - INFO -  * Detected change in 'D:\\code\\push_commit\\push_lark.py', reloading
+2024-10-31 14:37:38,750 - werkzeug - INFO -  * Detected change in 'D:\\code\\push_commit\\push_lark.py', reloading
+2024-10-31 14:37:39,802 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-10-31 14:37:40,138 - werkzeug - WARNING -  * Debugger is active!
+2024-10-31 14:37:40,139 - werkzeug - INFO -  * Debugger PIN: 942-156-151
+2024-10-31 14:38:24,987 - root - INFO - Latest commit f4c2b770e7c7e015ee408d44527a41a2e5045111
+2024-10-31 14:38:24,987 - root - INFO - Latest Commit Message: fix: youtube tool
+
+2024-10-31 14:38:25,619 - root - INFO - Push Commit: fix: youtube tool
+
+2024-10-31 14:38:25,620 - werkzeug - INFO - 192.168.1.12 - - [31/Oct/2024 14:38:25] "POST /webhook HTTP/1.1" 200 -
+2024-10-31 14:39:02,414 - werkzeug - INFO -  * Detected change in 'D:\\code\\push_commit\\push_lark.py', reloading
+2024-10-31 14:39:02,415 - werkzeug - INFO -  * Detected change in 'D:\\code\\push_commit\\push_lark.py', reloading
+2024-10-31 14:39:02,415 - werkzeug - INFO -  * Detected change in 'D:\\code\\push_commit\\push_lark.py', reloading
+2024-10-31 14:39:02,415 - werkzeug - INFO -  * Detected change in 'D:\\code\\push_commit\\push_lark.py', reloading
+2024-10-31 14:39:03,476 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2024-10-31 14:39:03,806 - werkzeug - WARNING -  * Debugger is active!
+2024-10-31 14:39:03,807 - werkzeug - INFO -  * Debugger PIN: 942-156-151
